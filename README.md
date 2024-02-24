@@ -4,6 +4,6 @@ When I was in childhood, I was very interested in seeing a film because movies r
 
 In this data visualization mini-project, we utilize the dataset of IMDb to explore and discover some creative insight into the film industry. From 2004 to 2010, the film industry was the best period in history. We found that global movie gross income first proceeds from US gross income. In other words, US movie income mainly came from outside of the US market. Thus, we ask a question: which year and which month should have the highest average US gross income between 2004 and 2010.
 
-Detail: 
+Details: 
 1. Analyzed a .csv file of IMDb information in this project using Tableau. 
 2. Explored the data set to identify key indicators for movie success, such as release months, duration, budget, average movie ratings, and genre. 
